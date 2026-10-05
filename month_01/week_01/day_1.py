@@ -32,7 +32,7 @@ print(prize)
 print(f'my name is {name} and i am {age} years old')
 
 # operations
-# (floor division)
+# (power operator)
 result = 5 ** 3
 print(f"result = {result}")
 
@@ -112,9 +112,9 @@ print("age Calculation:")
 print("===========================")
 print(f"age: {age} \nprice: {price}")
 
-""" 
-Excercise number : 04
 
+"""
+Excercise number : 04
 Real lead data
 """
 # leads data
